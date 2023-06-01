@@ -1,0 +1,4 @@
+search탭에서 project 검색, 나오는 목록 중 define project 아래 목록클릭하기
+5174 검색 후 좌표 변환.
+
+* 좌표가 정의가 안되었을 시에는 먼저 define projection을 해야함.
